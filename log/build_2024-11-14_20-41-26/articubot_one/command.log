@@ -1,0 +1,2 @@
+Invoking command in '/home/mario/REPOS/robot_ros/build/articubot_one': /usr/bin/cmake /home/mario/REPOS/robot_ros -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/mario/REPOS/robot_ros/install/articubot_one
+Invoked command in '/home/mario/REPOS/robot_ros/build/articubot_one' returned '1': /usr/bin/cmake /home/mario/REPOS/robot_ros -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/mario/REPOS/robot_ros/install/articubot_one

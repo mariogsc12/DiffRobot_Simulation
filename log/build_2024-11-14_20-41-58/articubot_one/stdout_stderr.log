@@ -1,0 +1,43 @@
+-- Found ament_cmake: 1.3.10 (/opt/ros/humble/share/ament_cmake/cmake)
+-- Found Python3: /usr/bin/python3 (found version "3.10.12") found components: Interpreter 
+-- Override CMake install command with custom implementation using symlinks instead of copying resources
+-- Found ament_lint_auto: 0.12.11 (/opt/ros/humble/share/ament_lint_auto/cmake)
+-- Added test 'copyright' to check source files copyright and LICENSE
+-- Added test 'cppcheck' to perform static code analysis on C / C++ code
+-- Configured cppcheck include dirs: 
+-- Configured cppcheck exclude dirs and/or files: 
+-- Added test 'cpplint' to check C / C++ code against the Google style
+-- Configured cpplint exclude dirs and/or files: 
+-- Added test 'flake8' to check Python code syntax and style conventions
+-- Added test 'lint_cmake' to check CMake code style
+-- Added test 'pep257' to check Python code against some of the docstring style conventions in PEP 257
+-- Added test 'uncrustify' to check C / C++ code style
+-- Configured uncrustify additional arguments: 
+-- Added test 'xmllint' to check XML markup files
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/mario/REPOS/robot_ros/build/articubot_one
+-- Install configuration: ""
+-- Execute custom install script
+-- Symlinking: /home/mario/REPOS/robot_ros/install/articubot_one/share/articubot_one/config/empty.yaml
+-- Symlinking: /home/mario/REPOS/robot_ros/install/articubot_one/share/articubot_one/config/view_bot.rviz
+-- Symlinking: /home/mario/REPOS/robot_ros/install/articubot_one/share/articubot_one/description/inertial_macros.xacro
+-- Symlinking: /home/mario/REPOS/robot_ros/install/articubot_one/share/articubot_one/description/robot.urdf.xacro
+-- Symlinking: /home/mario/REPOS/robot_ros/install/articubot_one/share/articubot_one/description/robot_core.xacro
+-- Symlinking: /home/mario/REPOS/robot_ros/install/articubot_one/share/articubot_one/launch/rsp.launch.py
+-- Symlinking: /home/mario/REPOS/robot_ros/install/articubot_one/share/articubot_one/worlds/empty.world
+-- Symlinking: /home/mario/REPOS/robot_ros/install/articubot_one/share/ament_index/resource_index/package_run_dependencies/articubot_one
+-- Symlinking: /home/mario/REPOS/robot_ros/install/articubot_one/share/ament_index/resource_index/parent_prefix_path/articubot_one
+-- Symlinking: /home/mario/REPOS/robot_ros/install/articubot_one/share/articubot_one/environment/ament_prefix_path.sh
+-- Symlinking: /home/mario/REPOS/robot_ros/install/articubot_one/share/articubot_one/environment/ament_prefix_path.dsv
+-- Symlinking: /home/mario/REPOS/robot_ros/install/articubot_one/share/articubot_one/environment/path.sh
+-- Symlinking: /home/mario/REPOS/robot_ros/install/articubot_one/share/articubot_one/environment/path.dsv
+-- Symlinking: /home/mario/REPOS/robot_ros/install/articubot_one/share/articubot_one/local_setup.bash
+-- Symlinking: /home/mario/REPOS/robot_ros/install/articubot_one/share/articubot_one/local_setup.sh
+-- Symlinking: /home/mario/REPOS/robot_ros/install/articubot_one/share/articubot_one/local_setup.zsh
+-- Symlinking: /home/mario/REPOS/robot_ros/install/articubot_one/share/articubot_one/local_setup.dsv
+-- Symlinking: /home/mario/REPOS/robot_ros/install/articubot_one/share/articubot_one/package.dsv
+-- Symlinking: /home/mario/REPOS/robot_ros/install/articubot_one/share/ament_index/resource_index/packages/articubot_one
+-- Symlinking: /home/mario/REPOS/robot_ros/install/articubot_one/share/articubot_one/cmake/articubot_oneConfig.cmake
+-- Symlinking: /home/mario/REPOS/robot_ros/install/articubot_one/share/articubot_one/cmake/articubot_oneConfig-version.cmake
+-- Symlinking: /home/mario/REPOS/robot_ros/install/articubot_one/share/articubot_one/package.xml
