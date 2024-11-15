@@ -1,6 +1,7 @@
 /home/mario/REPOS/robot_ros/install/mario_robot/share/mario_robot/config/empty.yaml
 /home/mario/REPOS/robot_ros/install/mario_robot/share/mario_robot/config/rviz_view.rviz
 /home/mario/REPOS/robot_ros/install/mario_robot/share/mario_robot/config/view_bot.rviz
+/home/mario/REPOS/robot_ros/install/mario_robot/share/mario_robot/description/gazebo_control.xacro
 /home/mario/REPOS/robot_ros/install/mario_robot/share/mario_robot/description/inertial_macros.xacro
 /home/mario/REPOS/robot_ros/install/mario_robot/share/mario_robot/description/robot.urdf.xacro
 /home/mario/REPOS/robot_ros/install/mario_robot/share/mario_robot/description/robot_core.xacro

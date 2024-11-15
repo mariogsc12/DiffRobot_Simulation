@@ -149,6 +149,9 @@
 
     <gazebo reference="caster_wheel">
         <material>Gazebo/Black</material>
+        <mu1 value="0.01"/>
+        <mu2 value="0.01"/>
+
     </gazebo>
 
 </robot>
