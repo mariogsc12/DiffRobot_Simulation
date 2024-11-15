@@ -1,0 +1,1 @@
+/home/mario/REPOS/robot_ros/build/mario_robot/ament_cmake_core/mario_robotConfig.cmake

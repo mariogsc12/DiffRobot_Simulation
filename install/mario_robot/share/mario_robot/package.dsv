@@ -1,0 +1,8 @@
+source;share/mario_robot/hook/cmake_prefix_path.ps1
+source;share/mario_robot/hook/cmake_prefix_path.dsv
+source;share/mario_robot/hook/cmake_prefix_path.sh
+source;share/mario_robot/local_setup.bash
+source;share/mario_robot/local_setup.dsv
+source;share/mario_robot/local_setup.ps1
+source;share/mario_robot/local_setup.sh
+source;share/mario_robot/local_setup.zsh
