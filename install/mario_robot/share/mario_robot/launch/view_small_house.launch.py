@@ -1,0 +1,1 @@
+/home/mario/REPOS/robot_ros/launch/view_small_house.launch.py
